@@ -1,3 +1,6 @@
 [submodule "/Users/chenjerry/Desktop/AttributedTextTestPullFromGit/CommonSubmodule"]
 	path = /Users/chenjerry/Desktop/AttributedTextTestPullFromGit/CommonSubmodule
 	url = https://github.com/ssddss/SubmoduleTest.git
+[submodule "CommonSubmodule"]
+	path = CommonSubmodule
+	url = https://github.com/ssddss/SubmoduleTest.git
