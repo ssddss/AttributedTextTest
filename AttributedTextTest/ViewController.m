@@ -27,7 +27,9 @@ static NSString *const contentStr = @"首行缩进根据用户昵称自动调整
 
 -(void)viewDidLoad {
     
-    self . usernameLabel . text  =  @"用户名Jordan CZ: " ;
+    
+    
+    self . usernameLabel . text  =  @"傻德进行了修改Jordan CZ: " ;
     
     self . usernameLabel . adjustsFontSizeToFitWidth  =  YES ;
     
